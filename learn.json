@@ -3,17 +3,20 @@
   "technologies": ["cybersecurity", "wordpress", "access control list", "ciberseguridad", "lista de control de acceso"],
   "difficulty": "easy",
   "duration": 1,
-  "template_url": "self"
-  "projectType": "tutorial"
-  "autoPlay": "true"
+  "template_url": "self",
+  "projectType": "tutorial",
+  "autoPlay": "true",
   "preview": "https://github.com/breatheco-de/configuring-firewall-and-acl-exercise-tutorial/blob/main/.learn/assets/preview.png?raw=true",
   "description": {
-    "us": "develop practical skills in securing a wordpress installation through the setup of firewalls and ACLs",
-    "es": "Desarrollar habilidades prácticas para proteger una instalación de WordPress mediante la configuración de firewalls y ACL."
+    "us": "Gain hands-on experience in securing a WordPress installation by configuring firewalls and Access Control Lists (ACLs). Learn to protect your site from potential threats by enhancing security settings and implementing advanced access control measures. Perfect for boosting your cybersecurity skills!",
+    "es": "Adquiere experiencia práctica asegurando una instalación de WordPress mediante la configuración de firewalls y listas de control de acceso (ACLs). Aprende a proteger tu sitio de posibles amenazas mejorando la configuración de seguridad e implementando medidas avanzadas de control de acceso. ¡Ideal para potenciar tus habilidades en ciberseguridad!"
   },
   "title": {
     "us": "Configuring Firewall and ACL using iptables to improve WordPress security",
     "es": "Configurar un firewall y ACL usando iptables para mejorar la seguridad de un WordPress site"
   },
-  "slug": "configuring-firewall-and-acl-exercise-tutorial"
+  "slug": "configuring-firewall-and-acl-exercise-tutorial",
+  "telemetry": {
+	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=1873"
+	}
 }
