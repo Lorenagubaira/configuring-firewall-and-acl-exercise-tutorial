@@ -18,11 +18,11 @@
 
 This project aims to develop your practical skills in securing a WordPress installation by setting up firewalls and Access Control Lists (ACLs). You'll learn how to enhance the overall security posture of a WordPress site against potential threats using both user-friendly and advanced tools.
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
 
 ## 🌱 How to start a project?
 
-Clone this repository in your debian virtual machine ([how to clone this repository](https://4geeks.com/how-to/github-clone-repository)) and follow the steps below:
+Clone [this repository](https://github.com/breatheco-de/configuring-firewall-and-acl-exercise-tutorial) in your debian virtual machine, and follow the steps below:
 
 1. Install LearnPack, the package manager for learning tutorials and the node compiler plugin for learnpack, make sure you also have node.js 14:
 
@@ -35,7 +35,7 @@ $ npm i @learnpack/learnpack -g
 ```bash
 $ learnpack start
 ```
-</onlyfor>
+</how-to-start>
 
 <!-- hide -->
 ## Contributors
